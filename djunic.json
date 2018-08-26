@@ -1,0 +1,49 @@
+{
+	"pic": "<img src='https://raw.githubusercontent.com/paceite/DJUnic/master/newpic.jpg'>",
+	"name": "AYUSH SHAH",
+	"phone": [
+		"<i class='fas fa-phone'></i>+91 8369853158",
+		"<i class='fas fa-envelope'></i>shah.ayush100@gmail.com",
+		"<i class='fab fa-github'></i>paceite"
+	],
+	"objective": "Career objective:",
+	"carobj": "Looking for a challenging position where there is constant learning involved and scope for enhancement of technical skills and optimum career growth.",
+	"Education": "Education:",
+	"education": [
+		{
+			"clgname": "Dwarkadas J.Sanghvi College of Engineering",
+			"course": "FE",
+			"result": "9.335 CGPA"
+		},
+		{
+			"clgname": "Pace Junior Science College",
+			"course": "HSC",
+			"result": "86%"
+		},
+		{
+			"clgname": "Rustomjee International School",
+			"course": "SSC",
+			"result": "95%"
+		}
+	],
+	"skills": [
+		"HTML",
+		"CSS",
+		"Bootstrap",
+		"JavaScript",
+		"jQuery",
+		"C",
+		"Python Basics"
+	],
+	"activities": [
+		"Member of DJUnicode",
+		"Participated in a Tree plantation drive organized by NSS",
+		"Attended a workshop on Web Development by DJUnicode"
+	],
+	"hobbies": [
+		"Badminton",
+		"Cricket",
+		"Table Tennis",
+		"Swimming"
+	]
+}
